@@ -6,6 +6,8 @@
 #### Apache Kafka 1.3.5
 #### ReactJS 18
 #### Apache Cassandra  Latest Version
+#### Node JS version 20.13.1
+
 
 ## Cloning Repository
 
